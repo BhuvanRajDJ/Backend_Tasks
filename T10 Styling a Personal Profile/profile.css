@@ -1,0 +1,22 @@
+h1 {
+  font-size: 38px;
+  color: green;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.about-me {
+  padding: 10px;
+  background-color: cadetblue;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+#profile-pic {
+  width: 100px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px;
+}
