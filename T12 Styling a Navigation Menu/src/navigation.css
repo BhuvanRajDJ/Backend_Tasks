@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+/*element selector*/
+ul {
+  list-style: none;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+/*class selector*/
+.navigation-bar {
+  background-color: rgb(181, 152, 7);
+  padding: 10px;
+}
+
+/*ID selector*/
+#link1,
+#link3,
+#link5 {
+  color: brown;
+  font-family: Tahoma;
+  font-weight: 500;
+}
+
+/*Pseudo selector*/
+/*to add decorative elements with ::before*/
+
+.navigation-bar li::before {
+  content: "💨";
+  color: red;
+  margin-right: 5px;
+}
+
+/*element selector*/
+.navigation-bar > ul > li {
+  display: inline-block;
+  margin-right: 20px;
+}

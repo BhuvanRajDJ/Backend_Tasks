@@ -1,0 +1,13 @@
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+}
+p {
+  font-style: italic;
+  text-align: justify;
+}
+
+.detailed {
+  background-color: rgb(141, 139, 139);
+  line-height: 1.8;
+}

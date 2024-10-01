@@ -1,0 +1,14 @@
+h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+  color: rgb(53, 52, 52);
+}
+
+.articale {
+  background-color: rgb(167, 158, 158);
+  font-family: "Times New Roman";
+}

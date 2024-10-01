@@ -1,0 +1,27 @@
+body {
+  background-color: blanchedalmond;
+}
+.block-element {
+  border: 2px solid #333;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: block;
+}
+.inline-element {
+  display: inline;
+  border: 1px dashed #007bff;
+  padding: 10px;
+
+  margin-bottom: 10px;
+}
+
+.inline-block-element {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 5px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+.none-element {
+  display: none;
+}
