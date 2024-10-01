@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(245, 185, 185);
+}
+
+h1 {
+  color: rgb(147, 14, 7);
+}
+p {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+.p2 {
+  font-weight: bold;
+  font-style: italic;
+}
